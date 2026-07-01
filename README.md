@@ -8,7 +8,7 @@ that day.
 ## Files
 - `Trader_Behaviour_vs_Sentiment.ipynb` - main analysis notebook (all code + charts + insights)
 - `fear_greed_index.csv` - daily sentiment classification (Fear, Greed, etc.)
-- `historical_data.csv` - trade-level data (~211k rows). 
+- `historical_data.csv` - trade-level data (~211k rows). (File size more than 25MB so download from link)
 
 ## How to run
 ```bash
